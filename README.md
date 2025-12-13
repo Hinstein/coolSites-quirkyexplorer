@@ -10,7 +10,7 @@ list of my faverotie websites
 
 ---
 
-## Backend
+## Backend🧠
 
 Resources focused on server-side development, APIs, databases, and system design.
 
@@ -18,7 +18,7 @@ Resources focused on server-side development, APIs, databases, and system design
 
 ---
 
-## Frontend
+## Frontend🎨
 
 Resources focused on UI development, React, CSS, animations, and performance.
 
@@ -27,9 +27,13 @@ Resources focused on UI development, React, CSS, animations, and performance.
 
 ---
 
-## Well Designed Sites
+## Well Designed Sites ✨
 
 Websites that stand out for aesthetics, layout, interaction, or overall design quality.
 
 - [Luke Faulkner](https://www.lukefaulkner.com/)  
   Minimal, artistic site showcasing music, visuals, and strong design choices.
+## 🧩 Notes
+- This index is meant to grow over time.
+- Categories can be split further (e.g. `CSS`, `React`, `Data`, `Systems`, `Art`).
+- Each linked site should ideally live in its own `.md` page with notes.
